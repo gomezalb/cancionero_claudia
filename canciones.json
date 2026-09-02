@@ -193,5 +193,16 @@
     "carpeta": "Alabanza",
     "tono": "Mi M",
     "youtube": "https://youtu.be/UbEUeFC3lh4?si=moUFCCtMMrGlp85c"
+  },
+  {
+    "titulo": "Que se llene tu casa",
+    "preview": "// Salvanos\nRestáuranos\nAvívanos\nOh, Dios //\n\n//Que se llene Tu casa con Tu gloria\nLlena Tu casa, oh, Dios\nQue se llene Tu casa con Tu gloria\nLlena Tu casa, oh, Dios//",
+    "slides": [
+      "<b>// Salvanos</b><br><b>Restáuranos</b><br><b>Avívanos</b><br><b>Oh, Dios //</b><br><br><b>//Que se llene Tu casa con Tu gloria</b><br><b>Llena Tu casa, oh, Dios</b><br><b>Que se llene Tu casa con Tu gloria</b><br><b>Llena Tu casa, oh, Dios//</b>"
+    ],
+    "carpeta": "Alabanza",
+    "acordes": [
+      "// [LAm]Sal[SOL]vanos[DO]\nRes[REm]táu[DO]ra[SOL]nos\n[LAm]Aví[SOL]va[DO]nos\nOh, [FA]Dios //\n\n//Que se [DO]llene Tu [SOL]casa [LAm]con Tu [FA]gloria\n[DO]Llena Tu [SOL]casa, oh, [FA]Dios //"
+    ]
   }
 ]
